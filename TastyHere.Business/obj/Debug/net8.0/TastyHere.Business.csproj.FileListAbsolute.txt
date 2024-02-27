@@ -1,0 +1,15 @@
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\bin\Debug\net8.0\TastyHere.Business.deps.json
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\bin\Debug\net8.0\TastyHere.Business.dll
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\bin\Debug\net8.0\TastyHere.Business.pdb
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\bin\Debug\net8.0\TastyHere.DataAccess.dll
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\bin\Debug\net8.0\TastyHere.DataAccess.pdb
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\obj\Debug\net8.0\TastyHere.Business.csproj.AssemblyReference.cache
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\obj\Debug\net8.0\TastyHere.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\obj\Debug\net8.0\TastyHere.Business.AssemblyInfoInputs.cache
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\obj\Debug\net8.0\TastyHere.Business.AssemblyInfo.cs
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\obj\Debug\net8.0\TastyHere.Business.csproj.CoreCompileInputs.cache
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\obj\Debug\net8.0\TastyHer.33D2B2A3.Up2Date
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\obj\Debug\net8.0\TastyHere.Business.dll
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\obj\Debug\net8.0\refint\TastyHere.Business.dll
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\obj\Debug\net8.0\TastyHere.Business.pdb
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.Business\obj\Debug\net8.0\ref\TastyHere.Business.dll

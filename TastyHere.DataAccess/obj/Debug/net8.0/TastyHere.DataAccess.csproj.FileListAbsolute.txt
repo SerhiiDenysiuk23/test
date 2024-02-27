@@ -1,0 +1,14 @@
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.DataAccess\bin\Debug\net8.0\TastyHere.DataAccess.deps.json
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.DataAccess\bin\Debug\net8.0\TastyHere.DataAccess.runtimeconfig.json
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.DataAccess\bin\Debug\net8.0\TastyHere.DataAccess.dll
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.DataAccess\bin\Debug\net8.0\TastyHere.DataAccess.pdb
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.DataAccess\obj\Debug\net8.0\TastyHere.DataAccess.csproj.AssemblyReference.cache
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.DataAccess\obj\Debug\net8.0\TastyHere.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.DataAccess\obj\Debug\net8.0\TastyHere.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.DataAccess\obj\Debug\net8.0\TastyHere.DataAccess.AssemblyInfo.cs
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.DataAccess\obj\Debug\net8.0\TastyHere.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.DataAccess\obj\Debug\net8.0\TastyHere.DataAccess.dll
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.DataAccess\obj\Debug\net8.0\refint\TastyHere.DataAccess.dll
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.DataAccess\obj\Debug\net8.0\TastyHere.DataAccess.pdb
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.DataAccess\obj\Debug\net8.0\TastyHere.DataAccess.genruntimeconfig.cache
+C:\Users\dense\Desktop\Diploma\tastyhere v3\TastyHere\TastyHere.DataAccess\obj\Debug\net8.0\ref\TastyHere.DataAccess.dll
